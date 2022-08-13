@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "e6a438af54e4cd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f64644dcc5c9faa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bootcamp/Übungen/FACSS BC 01.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f95c16a51933086b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8bb301bae53840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08ae9f41ebff852",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f0468594845e9e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb12f50e6229bdc8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf7ee2f02af4d4df",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b852765055e24f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6e95a4ce7089e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bootcamp/Übungen/FACSS BC 01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f8e9149b01b7552",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bootcamp/Übungen/FACSS BC 01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc8fbf0cccc3d423",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66658b773f9bfd0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bootcamp/Übungen/FACSS BC 01.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f64644dcc5c9faa",
+  "lastOpenFiles": [
+    "bootcamp/Übungen/FACSS BC 03.md",
+    "bootcamp/Übungen/FACSS BC 01.md",
+    "bootcamp/Übungen/FACSS BC 02.md",
+    "Pasted image 20220729153754.png.md",
+    "Pasted image 20220729153239.png.md"
+  ]
+}
