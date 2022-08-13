@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bootcamp/Übungen/FACSS BC 01.md",
+            "file": "Notizen/BUDG.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bootcamp/Übungen/FACSS BC 01.md",
+                "file": "Notizen/BUDG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bootcamp/Übungen/FACSS BC 01.md",
+                "file": "Notizen/BUDG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bootcamp/Übungen/FACSS BC 01.md"
+                "file": "Notizen/BUDG.md"
               }
             }
           }
@@ -128,12 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f64644dcc5c9faa",
+  "active": "f08ae9f41ebff852",
   "lastOpenFiles": [
-    "bootcamp/Übungen/FACSS BC 03.md",
-    "bootcamp/Übungen/FACSS BC 01.md",
-    "bootcamp/Übungen/FACSS BC 02.md",
-    "Pasted image 20220729153754.png.md",
-    "Pasted image 20220729153239.png.md"
+    "Notizen/SYEN.md",
+    "Notizen/PRMA.md",
+    "Notizen/PERF.md",
+    "Notizen/ITIL.md",
+    "Notizen/BUDG.md",
+    "Resources/CleanShot 2022-07-27 at 20.22.08.png",
+    "Pasted image 20220727202257.png.md",
+    "Übungen/bootcamp/FACSS BC 01.md",
+    "Übungen/bootcamp/FACSS BC 03.md",
+    "Übungen/bootcamp/FACSS BC 02.md"
   ]
 }
