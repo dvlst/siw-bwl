@@ -28,6 +28,8 @@
 
 	![[Pasted image 20220718201108.png]]
 
+![[Pasted image 20220814085126.png]]
+
 ### Zielbeziehungen
 - Neutrale Zielbeziehung (Es bestehen keine Abhängigkeiten / Stören sich nicht gegenseitig)
 - Komplementäre Zielebeziehungen (Unterstützen sich gegenseitig)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notizen/BUDG.md",
+            "file": "Übungen/bootcamp/Earned Value Method.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "BCWS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/BUDG.md",
+                "file": "Übungen/bootcamp/Earned Value Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/BUDG.md",
+                "file": "Übungen/bootcamp/Earned Value Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/BUDG.md"
+                "file": "Übungen/bootcamp/Earned Value Method.md"
               }
             }
           }
@@ -128,17 +128,48 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f08ae9f41ebff852",
+  "floating": {
+    "id": "0bcf6611ce6c16df",
+    "type": "floating",
+    "children": [
+      {
+        "id": "520f3c1d80524dde",
+        "type": "window",
+        "children": [
+          {
+            "id": "d87236256492bca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Übungen/bootcamp/FACSS BC 03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 2723,
+        "y": 234,
+        "width": 2150,
+        "height": 1101,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4f64644dcc5c9faa",
   "lastOpenFiles": [
-    "Notizen/SYEN.md",
-    "Notizen/PRMA.md",
-    "Notizen/PERF.md",
-    "Notizen/ITIL.md",
     "Notizen/BUDG.md",
-    "Resources/CleanShot 2022-07-27 at 20.22.08.png",
-    "Pasted image 20220727202257.png.md",
-    "Übungen/bootcamp/FACSS BC 01.md",
+    "Notizen/PRMA.md",
     "Übungen/bootcamp/FACSS BC 03.md",
-    "Übungen/bootcamp/FACSS BC 02.md"
+    "Übungen/bootcamp/FACSS BC 01.md",
+    "Übungen/bootcamp/FACSS BC 02.md",
+    "todo.md",
+    "Notizen/BOOT.md",
+    "Notizen/SYEN.md",
+    "Übungen/BWL Musterprüfung.md",
+    "Notizen/ITIL.md"
   ]
 }

@@ -16,27 +16,22 @@ Fragestellungen:
 Bitte so eingeben: PV = 0000.--
 
 `Enter your answer`
+EV = 80 * 1'000 / 100 = 800
+EAC = 
+CPI = 800 / 1200 = 0.66
 
 ### 2
 Ihr Projekt besteht darin, einen Zaun mit vier Seiten um ein quadratisches Grundstück zu errichten. Die Errichtung einer Seite benötigt einen Tag und soll 1'000 CHF kosten. Es soll eine Seite nach der anderen erstellt werden. Heute ist Ende des dritten Tages (= rote Linie). Kalkulieren Sie die wichtigsten Größen des Earned-Value-Ansatzes (24 Points):
 
-**PC** = Percent Complete (Fertigstellungsgrad)
-
-**BAC** = Budget at Completion (Gesamtbudget)
-
-**PV** = Planned Value (Planwert zum gegenwärtigen Zeitpunkt; auch BCWS genannt)
-
-**AC** = Actual Cost (am Stichtag angefallene Kosten)
-
-**EV** = Earned Value (Wert der geleisteten Arbeit)
-
-**CV** = Cost Variance (Differenz zwischen dem tatsächlichen Fertigstellungswert und den tatsächlich angefallenen Kosten. Negativ: über Budget; Positiv: unter Budget)
-
-**SV** = Schedule Variance (Differenz zwischen dem tatsächlichen Fertigstellungswert und den geplanten Kosten. Negativ: über Budget; Positiv: unter Budget)
-
-**CPI** = Cost Performance Index (Indikator für die Kosteneffizienz. Kleiner 1: negativ Größer 1: positiv)
-
-**SPI** = Schedule Performance Index (Indikator für die Termineffizienz Kleiner 1: negativ Größer 1: positiv)
+- **PC** = Percent Complete (Fertigstellungsgrad)
+- **BAC** = Budget at Completion (Gesamtbudget)
+- **PV** = Planned Value (Planwert zum gegenwärtigen Zeitpunkt; auch BCWS genannt)
+- **AC** = Actual Cost (am Stichtag angefallene Kosten)
+- **EV** = Earned Value (Wert der geleisteten Arbeit)
+- **CV** = Cost Variance (Differenz zwischen dem tatsächlichen Fertigstellungswert und den tatsächlich angefallenen Kosten. Negativ: über Budget; Positiv: unter Budget)
+- **SV** = Schedule Variance (Differenz zwischen dem tatsächlichen Fertigstellungswert und den geplanten Kosten. Negativ: über Budget; Positiv: unter Budget)
+- **CPI** = Cost Performance Index (Indikator für die Kosteneffizienz. Kleiner 1: negativ Größer 1: positiv)
+- **SPI** = Schedule Performance Index (Indikator für die Termineffizienz Kleiner 1: negativ Größer 1: positiv)
 
 ![[Pasted image 20220729160159.png]]
 
