@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Übungen/bootcamp/Earned Value Method.md",
-            "mode": "preview",
+            "file": "Übungen/bootcamp/FACSS BC 04.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,8 +77,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Übungen/bootcamp/Earned Value Method.md",
-                "collapseAll": false,
+                "file": "Übungen/bootcamp/FACSS BC 04.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Übungen/bootcamp/Earned Value Method.md",
+                "file": "Übungen/bootcamp/FACSS BC 04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +117,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Übungen/bootcamp/Earned Value Method.md"
+                "file": "Übungen/bootcamp/FACSS BC 04.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4f64644dcc5c9faa",
   "lastOpenFiles": [
     "Übungen/bootcamp/FACSS BC 02.md",
+    "Übungen/bootcamp/FACSS BC 04.md",
+    "Übungen/bootcamp/FACSS BC 03.md",
     "Übungen/bootcamp/FACSS BC 01.md",
     "Übungen/bootcamp/Earned Value Method.md",
-    "Übungen/bootcamp/FACSS BC 03.md",
+    "Übungen/BWL Musterprüfung.md",
     "Notizen/BUDG.md",
     "Notizen/PRMA.md",
     "todo.md",
-    "Notizen/BOOT.md",
-    "Notizen/SYEN.md",
-    "Übungen/BWL Musterprüfung.md"
+    "Notizen/BOOT.md"
   ]
 }
