@@ -5,7 +5,7 @@ Zeitbedarf maximal 35 Minuten.
 
 https://forms.office.com/pages/responsepage.aspx?id=KD8PHtdlokW6B_SGKKJ1dH4d0fqCZT1LhCGBv9QciOtUNE8yWTJRN0ZTTThMVTVSMFEwVDBUWFJGRy4u
 
-## 1
+## Aufgabe 1
 In einem Projekt ist der Aufwand zur Bearbeitung des Arbeitspakets 4.3 mit 1.000 CHF abgeschätzt worden. Zum Stichtag sollte es komplett abgeschlossen sein. Die Kosten für dieses Arbeitspaket belaufen sich aber bereits auf 1.200 CHF, obwohl die Fertigstellung erst zu 80 % erreicht wurde. (8 Points)
 
 ### Fragen
@@ -38,7 +38,7 @@ CPI = 800 / 1200 = 0.67
 `AC = 1200.--`
 `PC = FG = 80%`
 
-## 2
+## Aufgabe 2
 Ihr Projekt besteht darin, einen Zaun mit vier Seiten um ein quadratisches Grundstück zu errichten. Die Errichtung einer Seite benötigt einen Tag und soll 1'000 CHF kosten. Es soll eine Seite nach der anderen erstellt werden. Heute ist Ende des dritten Tages (= rote Linie). Kalkulieren Sie die wichtigsten Größen des Earned-Value-Ansatzes (24 Points):
 
 ### Fragen
@@ -97,7 +97,7 @@ ETC = EAC - AC = 4300 - 2800 = 1500
 `CPI = 2500.-- / 2800.-- = 0.893 = über Budget`
 `SPI = 2500.-- / 3000.-- = 0.833 = hinter dem Zeitplan`
 
-## 3
+## Aufgabe 3
 Nachstehende sogenannte "Zielscheibengrafik" zeigt die "Zustände" eines Projekts nach 10 Projektstatus-Meetings mit einer Linie verbunden. Diese Meetings finden monatlich ein Mal statt. Interpretieren Sie diese Linie im Hinblick auf den Projektverlauf und formulieren Sie ihre Interpretation in ganzen Sätzen. (12 Points)
 
 ![[Pasted image 20220729160226.png]]

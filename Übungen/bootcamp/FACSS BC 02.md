@@ -20,10 +20,13 @@ Die gesamten Investitionskosten sollen durch einen Bankkredit mit einem festen K
 ##### Antwort Aufgabe 1
 **Total der Investitionskosten** (OHNE Kosten nach Markteinführung!!!): `CHF 216’600.00` 
 
-<span style="color:orange">**Entwicklungsphase** (14 Monate)</span>
+<span style="color:orange">Entwicklungsphase (14 Monate)</span>
 - Kosten Softwareentwickler: CHF 112'800 / 12 * 14 = CHF 131’600.00
 - Kosten Aufbau Dev & Test Umgebung: CHF 35’000.00
 - Kosten Marketingkampagne: CHF 50’000.00
+
+##### Musterlösung
+![[Pasted image 20220827151418.png]]
 
 #### Aufgabe 2
 **Berechnen Sie mit den Angaben aus der Ausgangslage die jährlichen Betriebskosten der Fachapplikation nach der Markteinführung. Ordnen Sie dazu die einzelnen Teilkosten der vorgegebenen Kostenarten zu und stellen Sie Ihre Berechnung nachvollziehbar dar. Gehen Sie bei Ihren Berechnungen von Investitionskosten von CHF 700'000.-- aus, um Folgefehler aus der Aufgabe 1 zu vermeiden.**  (10 Points)
@@ -42,8 +45,11 @@ F5: Dienstleistungskosten: CHF 36'000.00
 F6: kalkulatorische Kosten *(Investitionskosten durch 3 Jahre)*: CHF 233’333.33
 F7: Betriebskosten pro Jahr: CHF 370’333.33 
 
-##### Musterlösung KAF 1
-![[MicrosoftTeams-image.png]]
+##### Musterlösung
+![[Pasted image 20220827151546.png]]
+
+Excel File
+![[KAF1_Investitions_und_Betriebskosten.xlsx]]
 
 ## KAF2 - Mängel in Projektplanung ermitteln
 
@@ -80,6 +86,9 @@ Ein Teammitglied hat bereits folgenden Projektplan erstellt. (Dieses Balkendiagr
 - Mangel 6
   T-14: ein dritter task kann nicht noch am 12./13./16.8. bearbeitet werden, weil nur zwei 100% verfügbar sind
 
+##### Musterlösung
+![[Pasted image 20220827151738.png]]
+
 #### Aufgabe 4
 **Ermitteln Sie, wie viele Personentage eingespart werden können, wenn die vorgegebene Projektplanung unter Berücksichtigung der Anforderungen in der Ausgangslage vollständig zeitoptimiert wird. Begründen Sie Ihr Resultat in Stichworten.** (3 Points)
 
@@ -88,7 +97,6 @@ Es können `5 Personentage` eingespart werden. 3 Tage gewinnen wir mit der Vorve
 
 Richtige Antwort zu Aufgabe
 
-### Musterlösung KAF 2
-![[boot-bwl-musterlosung-kaf-2-1.png]]
+##### Musterlösung
+![[Pasted image 20220827151910.png]]
 
-![[boot-bwl-musterlosung-kaf-2-2.png]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Übungen/bootcamp/FACSS BC 04.md",
+            "file": "Übungen/Bootcamp/FACSS BC 02.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 518
   },
   "right": {
     "id": "cf7ee2f02af4d4df",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Übungen/bootcamp/FACSS BC 04.md",
+                "file": "Übungen/Bootcamp/FACSS BC 02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Übungen/bootcamp/FACSS BC 04.md",
+                "file": "Übungen/Bootcamp/FACSS BC 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Übungen/bootcamp/FACSS BC 04.md"
+                "file": "Übungen/Bootcamp/FACSS BC 02.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4f64644dcc5c9faa",
   "lastOpenFiles": [
-    "Übungen/bootcamp/FACSS BC 02.md",
-    "Übungen/bootcamp/FACSS BC 04.md",
-    "Übungen/bootcamp/FACSS BC 03.md",
-    "Übungen/bootcamp/FACSS BC 01.md",
-    "Übungen/bootcamp/Earned Value Method.md",
-    "Übungen/BWL Musterprüfung.md",
-    "Notizen/BUDG.md",
-    "Notizen/PRMA.md",
-    "todo.md",
-    "Notizen/BOOT.md"
+    "Übungen/Bootcamp/MC Fragen/BootCamp PM, BWL und Führung - MC Set 2.md",
+    "Übungen/Bootcamp/KAF 1-8/KAF1 - Investitions- und Betriebskosten berechnen.md",
+    "Übungen/Bootcamp/KAF 1-8/KAF2 - Mängel in Projektplanung ermitteln.md",
+    "Übungen/Bootcamp/KAF 1-8/KAF8 - Analogieverfahren einsetzen.md",
+    "Übungen/Bootcamp/KAF 1-8/KAF7 - Schwierige Führungssituation analysieren und Massnahmen treffen.md",
+    "Übungen/Bootcamp/FACSS BC 07.md",
+    "Übungen/Bootcamp/FACSS BC 03.md",
+    "Übungen/Bootcamp/FACSS BC 02.md",
+    "Übungen/Bootcamp/MC Fragen/BootCamp PM und BWL - MC Set 1.md",
+    "Übungen/Bootcamp/KAF 1-8/KAF4 - Berichterstattung eines Projektportfolios vorbereiten.md"
   ]
 }

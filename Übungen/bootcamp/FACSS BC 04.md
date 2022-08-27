@@ -27,9 +27,19 @@ Die neue Vorlage für die Referenzliste soll gemäss folgenden Anforderungen ge
 4. Referenzprojekte aus längst vergangenen Zeiten sind nicht relevant. Es dürfen nur Projekte aufgelistet werden, die innerhalb der letzten 5 Jahre ausgeführt wurden.
 5. Eine allgemeine Auflistung von Referenzen, wie sie z.B. häufig in der Rubrik Referenzen auf den Webseiten der Anbieter anzutreffen sind, wird nicht akzeptiert und auf der Vorlage entsprechend darauf hingewiesen.
 
-**Entwerfen Sie unter Berücksichtigung der Anforderungen in der Ausgangslage eine neue Vorlage für die Referenzliste. Erstellen Sie die Antwort in einem Ihnen vertrauten Programm und laden Sie die Antwort a****ls pdf Dokument hoch.**
+Entwerfen Sie unter Berücksichtigung der Anforderungen in der Ausgangslage eine neue Vorlage für die Referenzliste. Erstellen Sie die Antwort in einem Ihnen vertrauten Programm und laden Sie die Antwort als pdf Dokument hoch.
 
+##### Antwort
 ![[Referenzliste.pdf]]
+
+##### Musterlösung
+![[Pasted image 20220827160914.png]]
+
+###### Excel File
+![[KAF3_Referenzprojekte_Vorlage.xlsx]]
+
+###### PDF File
+![[KAF3_Referenzprojekte.pdf]]
 
 ## **KAF4 - Berichterstattung eines Projektportfolios vorbereiten**
 
