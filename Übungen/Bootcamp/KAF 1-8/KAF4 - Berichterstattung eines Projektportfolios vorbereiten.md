@@ -17,6 +17,9 @@ Diagramm mit ergänzten Informationen für die Projekte 3 und 4 Erstellen Sie di
 - Die obige Grafik mit den bereits eingezeichneten Projekten 1, 2 und 5 steht Ihnen als PDF zur Verfügung.
 - Für die Berechnungen steht Ihnen die Formeltafel für die EV-Methode aus der Kursunterlage zur Verfügung.
 
+##### Antwort
+![[2022-08-24_153947.png]]
+
 ##### Berechnungen
 ###### Projekt 3
 ```
