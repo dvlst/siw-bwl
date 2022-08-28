@@ -3,7 +3,7 @@
 Mit diesen Beispielaufgaben kann die EV-Methode noch etwas geübt werden.
 Zeitbedarf maximal 35 Minuten.
 
-https://forms.office.com/pages/responsepage.aspx?id=KD8PHtdlokW6B_SGKKJ1dH4d0fqCZT1LhCGBv9QciOtUNE8yWTJRN0ZTTThMVTVSMFEwVDBUWFJGRy4u
+Link: [FACSS BC 03 - Aufgaben PRMA zu EV Methode (office.com)](https://forms.office.com/pages/responsepage.aspx?id=KD8PHtdlokW6B_SGKKJ1dH4d0fqCZT1LhCGBv9QciOtUNE8yWTJRN0ZTTThMVTVSMFEwVDBUWFJGRy4u)
 
 ## Aufgabe 1
 In einem Projekt ist der Aufwand zur Bearbeitung des Arbeitspakets 4.3 mit 1.000 CHF abgeschätzt worden. Zum Stichtag sollte es komplett abgeschlossen sein. Die Kosten für dieses Arbeitspaket belaufen sich aber bereits auf 1.200 CHF, obwohl die Fertigstellung erst zu 80 % erreicht wurde. (8 Points)
@@ -31,9 +31,11 @@ CPI = 800 / 1200 = 0.67
 ```
 
 #### Musterlösung
+![[Untitled.png]]
+
 `EV = 800.--`
 `EAC = 1200.-- + (1000.-- - 800.--) = CHF 1400.--`
-`CPI = 66.67%`
+`CPI = 66.67%` *Anmerkung: CPI von 80% ist falsch in der offiziellen Korrektur ;-)*
 `PV = 1000.--`
 `AC = 1200.--`
 `PC = FG = 80%`
@@ -87,7 +89,7 @@ ETC = EAC - AC = 4300 - 2800 = 1500
 ```
 
 #### Musterlösung
-`PC = FG = 2500.-- / 4000.-- = 62.5% `  MACHT DIES SINN?
+`PC = FG = 2500.-- / 4000.-- = 62.5% ` 
 `BAC = 4 * 1000.-- = 4000.--`
 `PV = 3 * 1000.-- = 3000.--`
 `AC = 1000.-- + 1200.-- + 600.-- = 2'800.--`

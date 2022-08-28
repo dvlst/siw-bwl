@@ -8,28 +8,29 @@ Ein Unternehmen plant die Entwicklung einer Fachapplikation, welche den Kunden a
 Die gesamten Investitionskosten sollen durch einen Bankkredit mit einem festen Kapitalzins von 5% Zins und einer Laufzeit von 3 Jahren ohne Tilgung finanziert werden. Die produktive Applikation wird als PaaS auf der Infrastruktur eines externen Service-Providers betrieben, wobei mit durchschnittlichen Kosten von CHF 800.-- pro Monat für das hochverfügbare Hosting gerechnet wird. Während der ersten 2 Jahre nach der Markteinführung sind keine umfangreichen Weiterentwicklungen der Applikation geplant weshalb für die Wartung der produktiven Applikation vorerst mit 0.5 FTE eines Softwareentwicklers kalkuliert wird. Die Applikation soll auch nach der Markteinführung kontinuierlich beworben werden, wozu ein monatliches Budget von CHF 3'000.-- für die externe Werbeagentur vorgesehen ist.
 
 #### Aufgabe 1
-**Berechnen Sie mit den Angaben aus der Ausgangslage die Investitionskosten für die Fachapplikation ohne Fremdkapitalzinsen. Stellen Sie Ihre Berechnung nachvollziehbar dar.**  
+Berechnen Sie mit den Angaben aus der Ausgangslage die Investitionskosten für die Fachapplikation ohne Fremdkapitalzinsen. Stellen Sie Ihre Berechnung nachvollziehbar dar.
 (5 Points)
 
 ##### Antwort
 **Total der Investitionskosten** (OHNE Kosten nach Markteinführung!!!): `CHF 216’600.00` 
 
-<span style="color:orange">Entwicklungsphase (14 Monate)</span>
+<span style="color:orange">Investitionskosten (14 Monate)</span>
 - Kosten Softwareentwickler: CHF 112'800 / 12 * 14 = CHF 131’600.00
 - Kosten Aufbau Dev & Test Umgebung: CHF 35’000.00
 - Kosten Marketingkampagne: CHF 50’000.00
 
 ##### Musterlösung
 ![[Pasted image 20220827151418.png]]
+Info: Zu finden im angehängtem Excel File
 
 #### Aufgabe 2
-**Berechnen Sie mit den Angaben aus der Ausgangslage die jährlichen Betriebskosten der Fachapplikation nach der Markteinführung. Ordnen Sie dazu die einzelnen Teilkosten der vorgegebenen Kostenarten zu und stellen Sie Ihre Berechnung nachvollziehbar dar. Gehen Sie bei Ihren Berechnungen von Investitionskosten von CHF 700'000.-- aus, um Folgefehler aus der Aufgabe 1 zu vermeiden.**  (10 Points)
+Berechnen Sie mit den Angaben aus der Ausgangslage die jährlichen Betriebskosten der Fachapplikation nach der Markteinführung. Ordnen Sie dazu die einzelnen Teilkosten der vorgegebenen Kostenarten zu und stellen Sie Ihre Berechnung nachvollziehbar dar. Gehen Sie bei Ihren Berechnungen von Investitionskosten von CHF 700'000.-- aus, um Folgefehler aus der Aufgabe 1 zu vermeiden.  (10 Points)
 
 **Kostenarten**
 F1: Personalkosten, F2: Materialkosten, F3: Raumkosten, F4: Kapitalkosten, F5: Dienstleistungskosten, F6: kalkulatorische Kosten, F7: Betriebskosten pro Jahr
 
 ##### Antwort
-**Jährliche Betriebskosten nach Markteinführung**: `CHF 370’333.33
+**Jährliche Betriebskosten nach Markteinführung**: `CHF 370’333.33`
 
 F1: Personalkosten: CHF 56'400.00
 F2: Materialkosten: CHF 0.00
@@ -41,6 +42,8 @@ F7: Betriebskosten pro Jahr: CHF 370’333.33
 
 ##### Musterlösung
 ![[Pasted image 20220827151546.png]]
+Info: Zu finden im angehängtem Excel File
 
+##### Resource(n)
 ###### Excel File
 ![[KAF1_Investitions_und_Betriebskosten.xlsx]]

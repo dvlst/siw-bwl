@@ -27,7 +27,9 @@ Entwerfen Sie unter Berücksichtigung der Anforderungen in der Ausgangslage eine
 
 ##### Musterlösung
 ![[Pasted image 20220827160914.png]]
+Info: Vorlage zu finden im Excel und pfannenfertig im PDF File
 
+##### Ressource(n)
 ###### Excel File
 ![[KAF3_Referenzprojekte_Vorlage.xlsx]]
 

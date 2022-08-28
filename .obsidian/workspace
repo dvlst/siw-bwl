@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Übungen/bootcamp/KAF 1-8/KAF4 - Berichterstattung eines Projektportfolios vorbereiten.md",
+            "file": "todo.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BCWS",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Übungen/bootcamp/KAF 1-8/KAF4 - Berichterstattung eines Projektportfolios vorbereiten.md",
+                "file": "todo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Übungen/bootcamp/KAF 1-8/KAF4 - Berichterstattung eines Projektportfolios vorbereiten.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,28 +117,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Übungen/bootcamp/KAF 1-8/KAF4 - Berichterstattung eines Projektportfolios vorbereiten.md"
+                "file": "todo.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4f64644dcc5c9faa",
+  "active": "f08ae9f41ebff852",
   "lastOpenFiles": [
-    "Übungen/Bootcamp/MC Fragen/BootCamp PM, BWL und Führung - MC Set 2.md",
-    "Übungen/Bootcamp/KAF 1-8/KAF1 - Investitions- und Betriebskosten berechnen.md",
-    "Übungen/Bootcamp/KAF 1-8/KAF2 - Mängel in Projektplanung ermitteln.md",
-    "Übungen/Bootcamp/KAF 1-8/KAF8 - Analogieverfahren einsetzen.md",
-    "Übungen/Bootcamp/KAF 1-8/KAF7 - Schwierige Führungssituation analysieren und Massnahmen treffen.md",
-    "Übungen/Bootcamp/FACSS BC 07.md",
-    "Übungen/Bootcamp/FACSS BC 03.md",
-    "Übungen/Bootcamp/FACSS BC 02.md",
-    "Übungen/Bootcamp/MC Fragen/BootCamp PM und BWL - MC Set 1.md",
-    "Übungen/Bootcamp/KAF 1-8/KAF4 - Berichterstattung eines Projektportfolios vorbereiten.md"
+    "Notizen/BOOT.md",
+    "Notizen/PRMA.md",
+    "Notizen/PERF.md",
+    "Notizen/ITIL.md",
+    "Notizen/BUDG.md",
+    "Übungen/BUDG/BUDG LV1.md",
+    "Übungen/BUDG/BUDG Fächerprüfung.md",
+    "Übungen/BWL Musterprüfung.md",
+    "Übungen/Simulationsprüfung 1/KAF1 -  Kriterien für die Bewertung von Offerten definieren.md",
+    "Übungen/Simulationsprüfung 1/KAF2 - Prozesschritte.md"
   ]
 }

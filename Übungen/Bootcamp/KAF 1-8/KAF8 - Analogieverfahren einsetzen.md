@@ -1,5 +1,7 @@
 ## KAF8 - Analogieverfahren einsetzen
 
+Link: [FACSS BC 07 - BootCamp Projektmanagement, BWL, Führung letzte KAFs (office.com)](https://forms.office.com/pages/responsepage.aspx?id=KD8PHtdlokW6B_SGKKJ1dH4d0fqCZT1LhCGBv9QciOtUQjJCNE5CSjg1NE1ITTNCMkRPOEJGSFVEQy4u)
+
 ### Ausgangslage
 Der "ICT-TecSolutions AG" liegt ein Auftrag eines Kunden für die Gesamterneuerung der ICT-lnfrastruktur vor. Die Aufwandschätzung für dieses Projekt soll auf der Basis von 6 abgeschlossenen Referenzprojekten ("Seagull" 01 bis 06) mit vergleichbarer Komplexität und Umfang gemacht werden. Alle Referenzprojekte sind in folgende 8 Arbeitspakete aufgeteilt und die gleiche Struktur wird auch für die Schätzung des neuen Projekts ("Seagull" 07) verwendet.  
   
@@ -27,8 +29,10 @@ oder mit =SUM()
 ##### Antwort
 ![[Pasted image 20220827145028.png]]
 
-Excel File: ![[KAF8_Analogieverfahren_Average_2.xlsx]]
 ##### Musterlösung
-![[2022-08-25_212219.png]]
+![[Pasted image 20220828130342.png]]
 **<span style="color:orange">Info: Die Differenz der WP IDs 5-7 zur Musterlösung beruht auf einen nicht ersichtlichen Rundungsunterschied. Die Musterlösung wurde vermutlich durch das "Sichtbare" berechnet.</span>
 
+##### Rescource(n)
+###### Excel File
+![[KAF8_Analogieverfahren_Average_2.xlsx]]

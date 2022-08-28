@@ -16,7 +16,7 @@ Im Rahmen eines Projekts soll eine einfache Applikation entwickelt werden. Für
 #### Aufgabe 1
 Ein Teammitglied hat bereits folgenden Projektplan erstellt. (Dieses Balkendiagramm finden Sie auch zwecks besserer Lesbarkeit als PDF Dokument in der Aufgabenkarte im Teams; Kanal Allgemein.)  
   
-**Identifizieren Sie unter Berücksichtigung der Rahmenbedingungen in der Ausgangslage genau 6 Mängel im vorgegebenen Projektplan. Referenzieren Sie die relevanten Tasks T-xx und beschreiben Sie jeden Mangel:**  (12 Points)
+Identifizieren Sie unter Berücksichtigung der Rahmenbedingungen in der Ausgangslage genau 6 Mängel im vorgegebenen Projektplan. Referenzieren Sie die relevanten Tasks T-xx und beschreiben Sie jeden Mangel:  (12 Points)
 
 ![[Pasted image 20220729180145.png]]
 
@@ -46,3 +46,4 @@ Es können `5 Personentage` eingespart werden. 3 Tage gewinnen wir mit der Vorve
 ##### Musterlösung
 ![[Pasted image 20220827151910.png]]
 
+```Wenn die Planung zeitoptimiert durchgeführt wird (Abhängigkeiten, Auslastung der beiden Mitarbeiter, «Leertage», etc.), können keine Personentage gem. Taskliste eingespart werden. Der Gesamtaufwand bleibt sich gleich; lediglich die Dauer wird reduziert und das war nicht die Frage.```

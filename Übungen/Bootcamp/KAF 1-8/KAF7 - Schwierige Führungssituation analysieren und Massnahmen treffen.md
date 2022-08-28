@@ -15,18 +15,21 @@ dentifizieren Sie innerhalb der Organisation 2 unterschiedliche Aspekte, die Mik
 Begründung der Wahl pro Aspekte in je maximal 2 Sätzen.
 
 ##### Antwort
-```
-1. Mangelhaftes Vertrauen
-Fehlendes Vertrauen an die untergebenen Mitarbeiter führt dazu, dass Heiri M. überlaste. 
+Aspekt 1: **Mangelhaftes Vertrauen**
+Fehlendes Vertrauen an die untergebenen Mitarbeiter führt dazu, dass sich Heiri M. selber überlastet. 
 
-2. Steile Hirarchie
+Aspekt 2: **Steile Hirarchie**
 Die patriarchalischen Führungskultur wird von "Top-Down" gelebt und bestätigt und untermauert das Verhalten von Heiri M.
-```
 
 ##### Musterlösung
 ```
+Aspekte, die das Mikromanagement begünstigen
 
+Vorbild Chef-Entwickler: Heiri M. steht unter dem Eindruck und Einfluss des Führungsstils seines Vorgesetzten, der wenig Fehlertolerant ist.
+
+Auszahlungsmodus Boni: Der Anreiz einen Bonus besteht lediglich darin, die Termine einzuhalten, was bei Heiri M. Den Kontrollreflex auslöst.
 ```
+
 
 #### Aufgabe 2
 Beschreiben Sie auf der Stufe Teamentwicklung 3 verschiedene Massnahmen, die die Eigenverantwortung der einzelnen Teammitglieder fördern und somit dem Mikromanagement von Heiri M. entgegenwirken.
@@ -34,17 +37,23 @@ Beschreiben Sie auf der Stufe Teamentwicklung 3 verschiedene Massnahmen, die die
 **Antwortstruktur**: Beschreibung von 3 Massnahmen in je maximal 3 Sätze.
 
 ##### Antwort
-```
+**Massnahme 1**
 Den Teammitglieder werden klare Zuständigkeiten, nach Möglichkeit im direkten Austausch mit den einzelnen Mitarbeitern, zugewiesen.
 
+**Massnahme 2**
 Eine Kultur der offenen Türe soll gelebt werden. Dies fördert die Eigeniniative der Mitarbeiter und kann z.B. zur Steigerung der Qualität führen.
 
+**Massnahme 3**
 Boni Zahlungen sollen nach messbaren Qualitätsmerkmale erfolgen. Somit wird eine Transparenz gegenüber der Mitarbeiter erreicht. Mit diesem Schritt wird die Motivation einzelner Mitarbeiter gesteigert.
-```
 
 ##### Musterlösung
 ```
+Teamentwicklung 3 Massnahmen, um dem Mikromanagement entgegenzuwirken (Achtung, hier nur stichwortartig wiedergegeben)
 
+▪ Feedbackkultur einführen
+▪ Rollen definieren
+▪ Kanban Board einführen
+▪ u.a.
 ```
 
 #### Aufgabe 3
@@ -53,15 +62,17 @@ Formulieren Sie zu Handen der Mitglieder von Heiris Team 2 unterschiedliche Vors
 **Antwortstruktur**: Formulierung von 2 Vorschlägen in je maximal 2 Sätzen.
 
 ##### Antwort
-```
-Vorschlag 1
+**Vorschlag 1**
 Teambildung, z.B. mit  Durchführung von Freizeitaktivitäten, die das Vertrauen indirekt fördern. Da der Zugang zu Henri M. dabei offenbar einfacher möglich ist.
 
-Vorschlag 2
+**Vorschlag 2**
 Mit konstruktiven Vorschläge versuchen, den Henri M. zu entlasten, damit er so mehr Zeit und Möglichkeiten bekommt, seiner Aufgabe als Teamleiter entgegenzukommen. 
-```
 
 ##### Musterlösung
 ```
+2 Vorschläge an die Teammitglieder (Achtung, hier noch stichwortartig wiedergegeben)
 
+▪ proaktiv Tasks übernehmen und Heiri zeigen, dass es «schon klappt»
+▪ Heiri M. zu einem Bier einladen und ihm beim Bier darlegen, wo das Team «steht»
+▪ u.a.
 ```
