@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 SYEN/Literatur/100 Methoden und Techniken.md",
+            "file": "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 SYEN/Literatur/100 Methoden und Techniken.md",
+                "file": "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 SYEN/Literatur/100 Methoden und Techniken.md",
+                "file": "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 SYEN/Literatur/100 Methoden und Techniken.md"
+                "file": "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4f64644dcc5c9faa",
   "lastOpenFiles": [
-    "01 SYEN/Literatur/Systems Engineering - Das Lehrbuch.md",
+    "Übungen/Module/01 SYEN/Aufgabe Weingut Sangiovese.md",
+    "Übungen/Module/01 SYEN/Aufgabe Pfefferminzia AG II.md",
+    "Übungen/Module/01 SYEN/Aufgabe Pfefferminzia AG.md",
+    "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md",
     "01 SYEN/Literatur/100 Methoden und Techniken.md",
-    "01 SYEN/Aufgabe Pfefferminzia AG II.md",
-    "01 SYEN/Aufgabe Weingut Sangiovese.md",
-    "01 SYEN/Aufgabe Pfefferminzia AG.md",
+    "01 SYEN/Literatur/Systems Engineering - Das Lehrbuch.md",
     "01 SYEN/Block 1+2.md",
     "01 SYEN/Block 7+8.md",
     "01 SYEN/Block 3+4.md",
-    "01 SYEN/Aufgabe Hotel Sunshine.md",
     "Übungen/BWL Musterprüfung.md"
   ]
 }
