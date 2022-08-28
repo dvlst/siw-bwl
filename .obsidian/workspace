@@ -7,8 +7,12 @@
         "id": "4f64644dcc5c9faa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "01 SYEN/Literatur/100 Methoden und Techniken.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 SYEN/Literatur/100 Methoden und Techniken.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 SYEN/Literatur/100 Methoden und Techniken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 SYEN/Literatur/100 Methoden und Techniken.md"
+              }
             }
           }
         ],
@@ -120,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f08ae9f41ebff852",
+  "active": "4f64644dcc5c9faa",
   "lastOpenFiles": [
-    "todo.md",
-    "Übungen/BUDG/BUDG LV1.md",
-    "Übungen/BUDG/BUDG Fächerprüfung.md",
-    "Übungen/Bootcamp/Aufgaben PRMA zu EV Methode.md",
-    "Übungen/Simulationsprüfung 1/Probetraining/KAF7 - Referenzliste optimieren.md",
-    "Übungen/Simulationsprüfung 1/Probetraining/KAF6 - Ressourcen für ein Teilprojekt planen.md",
-    "Übungen/Simulationsprüfung 1/Probetraining/Musterlösungen.md",
-    "Übungen/Simulationsprüfung 1/Probetraining/KAF5 - Gewinnschwelle für einen neuen Service ermitteln.md",
-    "Übungen/Simulationsprüfung 1/Probetraining/KAF4 - Projektaufwand kalkulieren und Kennzahlen interpretieren.md",
-    "x-media/KAF4.1.pdf"
+    "01 SYEN/Literatur/Systems Engineering - Das Lehrbuch.md",
+    "01 SYEN/Literatur/100 Methoden und Techniken.md",
+    "01 SYEN/Aufgabe Pfefferminzia AG II.md",
+    "01 SYEN/Aufgabe Weingut Sangiovese.md",
+    "01 SYEN/Aufgabe Pfefferminzia AG.md",
+    "01 SYEN/Block 1+2.md",
+    "01 SYEN/Block 7+8.md",
+    "01 SYEN/Block 3+4.md",
+    "01 SYEN/Aufgabe Hotel Sunshine.md",
+    "Übungen/BWL Musterprüfung.md"
   ]
 }
