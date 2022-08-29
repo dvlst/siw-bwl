@@ -6,11 +6,11 @@
 
 ![[Pasted image 20220828184113.png]]
 
-![[Pasted image 20220828184131.png]]
+![[Pasted image 20220828184131.png | Stakeholders Stake-Holder]]
 
 ![[Pasted image 20220828184203.png]]
 
-![[Pasted image 20220828184329.png]]
+![[Pasted image 20220828184329.png | Systemziele Vorgehensziele]]
 
 ![[Pasted image 20220828184338.png | SMART ... Ziele]]
 
