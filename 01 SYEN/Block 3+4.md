@@ -12,9 +12,9 @@
 
 ![[Pasted image 20220828184329.png]]
 
-![[Pasted image 20220828184338.png]]
+![[Pasted image 20220828184338.png | SMART ... Ziele]]
 
-![[Pasted image 20220828184347.png]]
+![[Pasted image 20220828184347.png | SMART Systemziele Vorgehensziele]]
 
 ![[Pasted image 20220828184405.png]]
 

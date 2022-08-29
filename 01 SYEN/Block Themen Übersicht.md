@@ -1,5 +1,5 @@
 ### Übersicht Block 1+2
-![[Pasted image 20220828182448.png]]
+![[Pasted_image_20220828182448.png]]
 
 ### Übersicht Block 3+4
 ![[Pasted image 20220828182626.png]]
