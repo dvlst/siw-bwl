@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notizen/PERF.md",
-            "mode": "preview",
+            "file": "Übungen/bootcamp/Aufgaben PRMA zu EV Methode.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen/PERF.md",
+                "file": "Übungen/bootcamp/Aufgaben PRMA zu EV Methode.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notizen/PERF.md",
+                "file": "Übungen/bootcamp/Aufgaben PRMA zu EV Methode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen/PERF.md"
+                "file": "Übungen/bootcamp/Aufgaben PRMA zu EV Methode.md"
               }
             }
           }
@@ -128,8 +128,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f08ae9f41ebff852",
+  "active": "4f64644dcc5c9faa",
   "lastOpenFiles": [
+    "Übungen/bootcamp/Earned Value Method.md",
+    "Notizen/PERF.md",
     "Übungen/bootcamp/KAF 1-8/KAF5 - Projektstrukturplan entwickeln.md",
     "Übungen/Simulationsprüfung 1/KAF4 - Projektplan analysiern und anpassen.md",
     "Übungen/Simulationsprüfung 1/KAF2 - Prozesschritte.md",
@@ -137,8 +139,6 @@
     "Übungen/Module/01 SYEN/Aufgabe Weingut Sangiovese.md",
     "Übungen/Module/01 SYEN/Aufgabe Pfefferminzia AG II.md",
     "Übungen/Module/01 SYEN/Aufgabe Pfefferminzia AG.md",
-    "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md",
-    "01 SYEN/Literatur/100 Methoden und Techniken.md",
-    "01 SYEN/Literatur/Systems Engineering - Das Lehrbuch.md"
+    "Übungen/Module/01 SYEN/Aufgabe Hotel Sunshine.md"
   ]
 }
